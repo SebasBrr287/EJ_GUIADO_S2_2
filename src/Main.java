@@ -1,9 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
+void main(String[] args) {
     Producto d1 = new Producto();
-    Producto d2 = new Producto();
-
 
     d1.setNombre("Laptop");
     d1.setPrecio(12);
